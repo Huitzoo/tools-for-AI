@@ -48,11 +48,8 @@ If you want to use the pexeles miner you have to:
 
 python 3.6.13
 
-## Versionado 📌
+## Version 📌
 V0.0.1
-
-## License 📄
-[LICENSE.md](LICENSE.md) 
 
 ## Special thanks 🎁
 ⌨️ [Villanuevand](https://github.com/Villanuevand) - Readme creator.
