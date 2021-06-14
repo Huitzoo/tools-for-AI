@@ -31,7 +31,7 @@ If you want to use mine_data be careful with this:
     * pexeles
     * pixabay
     * videos
-* The json miner and pinterest, they will support in nexts versions.
+* The json miner will support in nexts versions.
 * Processing images doesn't works, it will be do in nexts versions.
 
 
