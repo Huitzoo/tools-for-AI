@@ -2,8 +2,6 @@
 
 ## Starting  🚀
 
-Look **Deployment** dor nows deatils project.
-
 ### Pre-requiremets 📋
 
 ```
