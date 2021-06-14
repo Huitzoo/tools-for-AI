@@ -1,0 +1,32 @@
+miner = "pinterest"
+pathSaved = "./dataset/services/"
+
+[class]
+name = "mochilas"
+find = "mochilas" #The name have to encode for example: people+with+backpacks
+numberOfImages=1000
+numberOfPages = 4
+
+[img]
+sizeImage="regular"
+
+[pinterest]
+[pinterest.userPinterest]
+email = "Your email pinterest"
+pass = "Your password pinterest"
+[pinterest.url]
+name = "Url web"
+
+[apiKeys]
+pexeles = "Your api key from pexeles"
+pixabay = "Your api key from pixabay"
+
+
+[videos]
+pathVideos="./dataset/videos/"
+
+savedImagesPeerFrame=10 #This parameter is what frame will be save.
+formats=[
+    ".mp4",
+    ".avi"
+]

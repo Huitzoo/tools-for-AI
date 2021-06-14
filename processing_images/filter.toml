@@ -1,0 +1,16 @@
+filter=1
+
+[paths]
+PATH_IMAGES="./dataset/{0}/allData/images/"
+PATH_LABELS="./dataset/{0}/allData/labels/"
+PATH_FILTER_IMAGES="./dataset/{0}/filterData/images/"
+PATH_FILTER_LABELS="./dataset/{0}/filterData/labels/"
+
+[classes]
+Cabello="0"
+Gorra="1"
+Mochila="2"
+Lentes="3"
+Ojos="4"
+
+
